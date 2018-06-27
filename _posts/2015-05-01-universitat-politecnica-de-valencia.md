@@ -35,13 +35,13 @@ The Galicaster PC is an i5 Computer with a Datapath RGB capture card and a Logit
 
 In our first tests we find out that one of the biggest problems was that many times the teacher failed in activating the micro. So in our setup we have installed 4 fixed microphones on the stage with a noise gate, and we record the audio from that fixed microphones.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/valencia1.jpg">
+<img src="assets/img/valencia1.jpg">
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/valencia2.jpg">
+<img src="assets/img/valencia2.jpg">
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/valencia3.jpg">
+<img src="assets/img/valencia3.jpg">
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/valencia4-300x200.jpg">
+<img src="assets/img/valencia4.jpg">
 
 From the server part, we have been using Opencast 1.3.1 for all this academic year. Our differences with an out-of-the-box setup are:
 
@@ -64,7 +64,7 @@ Currently we are running the third main release of Paella. in June 2012 we relea
 
 More about Paella in its site (http://paellaengage.webs.upv.es)
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/valencia5-300x169.jpg">
+<img src="assets/img/valencia5.jpg">
 
 ## Why did you choose Opencast?
 Universitat Politècnica de València has a long history in applying technological solutions to the learning processes. We also prefer open source solutions, as we can both tailor it to our specific needs and also be able to help the community around them. We tested this framework within the Sakai project and when we heard about the Opencast community we decided to join.
