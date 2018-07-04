@@ -14,6 +14,7 @@ image="assets/img/free_gruen.png"
 linkurl="software"
 align="right"
 backgroundcolor=site.data.colors.box
+imagewidth="40%"
 %}
 
 {% include fullsizebox.html
@@ -22,6 +23,7 @@ description="There are several hardware vendors that produce devices to record l
 image="assets/img/hardware.png"
 linkurl="software"
 align="right"
+imagewidth="40%"
 %}
 
 {% include fullsizebox.html
@@ -31,6 +33,7 @@ image="assets/img/support_02.png"
 linkurl="software"
 align="right"
 backgroundcolor=site.data.colors.box
+imagewidth="40%"
 %}
 
 # Sponsors
