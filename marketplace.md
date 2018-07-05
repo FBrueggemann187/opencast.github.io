@@ -10,7 +10,7 @@ description: There are several partners that offer free and professional tools a
 {% include fullsizebox.html
 title="Free and Open-Source Tools"
 description="There are several software tools that can be used together with Opencast, from PyCA - a small recording tool that can even run on a Raspberry Pi - up to a professional video annotation tool that allows scientific coding of videos. [Learn more...](/tools)"
-image="assets/img/free_gruen.png"
+image="assets/img/freetools.png"
 linkurl="software"
 align="right"
 backgroundcolor=site.data.colors.box
