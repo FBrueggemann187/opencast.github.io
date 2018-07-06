@@ -327,6 +327,7 @@ ul.navigation-list-footer {
     margin-top: 1rem!important;
     text-align: center;
     border-radius: 1rem;
+    background-color: rgb(36,67,94);
     box-shadow: 1px 1px 3px 3px rgba(36,67,94,0.8);
 }
 
@@ -336,7 +337,7 @@ ul.navigation-list-footer {
 }
 
 .software-button h3 {
-    color: #24435e;
+    color: white;
     font-weight: bolder;
     margin: 0.5rem!important;
 }
@@ -344,7 +345,6 @@ ul.navigation-list-footer {
 .software-button h3:hover {
     color: white;
 }
-
 .center-image {
   border-radius: 1rem;
   margin-bottom: -0.5rem;
