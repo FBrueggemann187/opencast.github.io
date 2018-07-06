@@ -332,6 +332,7 @@ ul.navigation-list-footer {
 
 .software-button:hover {
     background-image: linear-gradient(120deg, darken({{ site.data.colors.header-green }}, 10%), darken({{ site.data.colors.header-blue }}, 10%));
+    color: white;
 }
 
 .software-button h3 {
@@ -341,7 +342,7 @@ ul.navigation-list-footer {
 }
 
 .software-button h3:hover {
-    color: darken(white, 10%);
+    color: white;
 }
 
 .center-image {
