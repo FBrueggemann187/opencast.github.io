@@ -96,9 +96,6 @@ a.menu-item:hover {
   margin-bottom: 30px;
 }
 
-.center-image {
-}
-
 .project-tagline h2 {
     color:white!important;
 }
@@ -328,6 +325,7 @@ ul.navigation-list-footer {
     text-align: center;
     margin-bottom: 1rem;
     padding: 1rem;
+    border-radius: 1rem;
     box-shadow: 3px 3px 8px rgba(0,0,0,0.3);
 }
 
@@ -342,6 +340,10 @@ ul.navigation-list-footer {
 
 .software-button h3:hover {
     color: darken(white, 10%);
+}
+
+.center-image {
+  border-radius: 1rem;
 }
 
 .sponsor {
