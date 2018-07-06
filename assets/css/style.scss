@@ -334,7 +334,7 @@ ul.navigation-list-footer {
 .software-button:hover {
     background-image: linear-gradient(120deg, darken({{ site.data.colors.header-green }}, 10%), darken({{ site.data.colors.header-blue }}, 10%));
     color: white;
-    transform: scale(0.5);
+    transform: scale(1);
 }
 
 .software-button h3 {
