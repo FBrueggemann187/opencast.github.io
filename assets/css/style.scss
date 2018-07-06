@@ -319,12 +319,13 @@ ul.navigation-list-footer {
 }
 
 .software-button {
-    float: left;
-    width: 15.3rem;
+     float: left;
+    width: 14.8rem;
+    margin-left: 0.5rem;
     margin-right: 2rem;
-    text-align: center;
     margin-bottom: 1rem;
-    padding: 1rem;
+    margin-top: 1rem!important;
+    text-align: center;
     border-radius: 1rem;
     box-shadow: 3px 3px 8px rgba(0,0,0,0.3);
 }
@@ -344,6 +345,7 @@ ul.navigation-list-footer {
 
 .center-image {
   border-radius: 1rem;
+  margin-bottom: -0.5rem;
 }
 
 .sponsor {
