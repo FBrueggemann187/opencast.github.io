@@ -329,8 +329,6 @@ ul.navigation-list-footer {
     border-radius: 1rem;
     background-color: rgb(36,67,94);
     box-shadow: 1px 1px 3px 3px rgba(36,67,94,0.8);
-    position: absolute;
-    z-index: -2;
 }
 
 .software-button:hover {
@@ -342,13 +340,6 @@ ul.navigation-list-footer {
     color: white;
     font-weight: bolder;
     margin: 0.5rem!important;
-}
-
-.software-link {
-  position: absoulute;
-  z-index: 2;
-  margin-top: 4rem!important;
-  margin-left: 4rem!important;
 }
 
 .software-button h3:hover {
