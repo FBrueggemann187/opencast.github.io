@@ -53,7 +53,7 @@ align="right"
 {% include fullsizebox.html
 title="Frequently Asked Questions"
 description="Here are some frequently asked questions regarding Opencast. This will help you determine if it’s the right solution for your organization. [Read more…](faq)"
-image="assets/img/faq_tablet_klein_02.png"
+image="assets/img/faq_klein.png"
 linkurl="software"
 align="right"
 backgroundcolor=site.data.colors.box
