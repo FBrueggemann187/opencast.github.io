@@ -339,12 +339,18 @@ ul.navigation-list-footer {
 .software-button h3 {
     color: white;
     font-weight: bolder;
-    margin: 0.5rem!important;
+    margin-top: 4rem!important;
+    margin-left: 4rem!important;
 }
 
 .software-button h3:hover {
     color: #4cb17c;
 }
+
+.button-headline {
+  position: absolute;
+}
+
 .center-image {
   border-radius: 1rem;
   margin-bottom: -0.5rem;
@@ -353,7 +359,6 @@ ul.navigation-list-footer {
 .center-image:hover {
   color: white;
 }
-
 
 .sponsor {
   width: 100%;
@@ -392,10 +397,13 @@ ul.navigation-list-footer {
   width: 100%;
 }
 
-
 .content-more {
   display: block;
   align: right;
   overflow: auto;
   width: 100%;
+}
+
+.main-content h3 {
+  font-size:1.8rem!important
 }
