@@ -7,17 +7,49 @@ title: Opencast Community Meetings
 # Upcoming Events
 Here are the conferences and workshops organized by the Opencast community and/or with participation by / relevance for the Opencast community.
 
-{% include simplebox.html backgroundcolor=site.data.colors.box
-content="## Opencast D/A/CH Meeting 2018
+{% for post in site.posts %}
+{% if post.tags contains "upcoming" %}
 
-*The Friedrich-Alexander-Universität Erlangen-Nürnberg ist hosting this years german-speaking conference in Erlangen.*
+{% include box-start.html 
+  backgroundcolor=site.data.colors.bluebox 
+%}
+{% if post.image %}
+<img class="fullsizebox-image" src="{{ post.image }}" style="float:right; width:40%;"/>
+{% endif %}
+<div>
+  <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+    <p><b>{{ post.description }}</b></p>
+    <p>{{ post.excerpt }}</p>
+  <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+</div>
+{% include box-end.html %}
 
-**September 27.-28., 2018**
+{% endif %}
+{% endfor %}
 
-The [website](https://www.opencast.fau.de/) has all the information for planning your itinerary, with registration.
+---
 
-As usually the event has more an un-conference style and the participants can contribute to the agenda in the [Opencast Wiki](https://opencast.jira.com/wiki/spaces/MHDE/pages/368607233/Themen+f+r+das+Treffen+der+DACH+Community+2018).
-[Contact us](http://www.opencast.org/events) for more information or questions." %}
+# Past Events
+
+{% for post in site.posts %}
+{% if post.tags contains "past" %}
+
+{% include box-start.html 
+  backgroundcolor=site.data.colors.box 
+%}
+{% if post.image %}
+<img class="fullsizebox-image" src="{{ post.image }}" style="float:left; width:40%;"/>
+{% endif %}
+<div>
+  <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+    <p>{{ post.description }}</p>
+    <p>{{ post.excerpt }}</p>
+  <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+</div>
+{% include box-end.html %}
+
+{% endif %}
+{% endfor %}
 
 {% include fullsizebox.html
 title="2018 Opencast summit"
@@ -26,6 +58,8 @@ description="The website has recording of most of the sessions of this years con
 image="assets/img/opencast2018wien.jpg"
 align="left"
 imagewidth="40%"
+linktext="Watch the Vienna Conference Recordings..."
+linkurl="http://opencast2018.univie.ac.at/programme-and-recordings/"
 %}
 
 {% include fullsizebox.html
@@ -41,14 +75,19 @@ imagewidth="40%"
 backgroundcolor=site.data.colors.box
 %}
 
+
 {% include fullsizebox.html
 title="Conference Recordings"
 description="There are recordings from the annual Opencast Summit since 2012 in the [video archive of the ETH Zürich](https://www.video.ethz.ch/events/opencast.html). You can find many interesting talks on the development of Opencast, user-stories from adopting institutions and many other topics here."
-image="assets/img/recording-3.jpg"
+image="assets/img/recording.jpg"
 align="left"
 linktext="Watch the Conference Recordings..."
 linkurl="https://www.video.ethz.ch/events/opencast.html"
 imagewidth="40%"
 %}
+
+---
+
+# Frequent Meetings
 
 {% include webmeetings.html %}

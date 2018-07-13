@@ -100,25 +100,25 @@ Thank you to the following sponsor(s) for their support to advance the Opencast 
 These institutions have provided financial, technical, or personnel suppport to advance the Opencast project. Thank you!
 
 {% include fullsizebox.html
-image="/assets/img/eth-logo1.png"
+image="assets/img/eth-logo1.png"
 align="left"
 imagewidth="40%"
 %}
 
 {% include fullsizebox-rechts.html
-image="assets/img/uos-logo.png"
+image="assets/img/osnabruk.png"
 align="right"
 imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="/assets/img/Switch600x400.jpg"
+image="assets/img/Switch600x400.jpg"
 align="left"
 imagewidth="40%"
 %}
 
 {% include fullsizebox-rechts.html
-image="/assets/img/logo-university-of-manchester.png"
+image="assets/img/logo-university-of-manchester.png"
 align="right"
 imagewidth="40%"
 %}
@@ -130,13 +130,13 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox-rechts.html
-image="/assets/img/Valencia600x400.jpg"
+image="assets/img/Valencia600x400.jpg"
 align="right"
 imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="/assets/img/UCT-round-logo.png"
+image="assets/img/UCT-round-logo.png"
 align="left"
 imagewidth="40%"
 %}
