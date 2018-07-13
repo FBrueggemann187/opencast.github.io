@@ -4,7 +4,7 @@ date: 2015-05-01
 description: Opencast is a central media service at the University of Cologne that unifies the management of automatic recorded lectures, educational media and blended learning material.
 category: user
 tags: [user]
-logo: /assets/img/uni-zu-koeln.png
+logo: assets/img/uni-zu-koeln.png
 ---
 
 *Last update: October, 5th 2015*

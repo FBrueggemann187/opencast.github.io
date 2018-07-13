@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The Friedrich-Alexander-University Erlangen-Nuremberg is one of Germanys largest universities and has a long tradition in lecture recordings.
 category: user
 tags: [user]
-logo: /assets/img/fau-logo.png
+logo: assets/img/fau-logo.png
 ---
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [1] is a strong research university and one of the largest universities in Germany, with more than 40,000 students, 244 degree programmes, 4,000 academic staff (including over 580 professors), 180 million euros third-party funding (as of 2014), and 500 partnerships with universities

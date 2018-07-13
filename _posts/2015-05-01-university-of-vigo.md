@@ -4,7 +4,7 @@ date: 2015-05-01
 description: An excellent example on how Opencast can be used in educational projects and how the software can be integrated with other portals.
 category: user
 tags: [user]
-logo: /assets/img/cdm-logo.png
+logo: assets/img/cdm-logo.png
 ---
 
 ## Project Goals

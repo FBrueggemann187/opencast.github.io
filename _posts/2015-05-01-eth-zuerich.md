@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The ETH Zürich has always been one of the driving forces of the Opencast project. A high degree on integration into their campus infrastructure is important to them.
 category: user
 tags: [user]
-logo: /assets/img/eth-logo.png
+logo: assets/img/eth-logo.png
 ---
 
 ## Using Opencast as a video asset management system to your CMS – introducing OAI-PMH

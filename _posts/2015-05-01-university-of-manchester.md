@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The University of Manchester has brought lecture capture to a new level. With an opt-out policy for lecturers and more than 300 equipped venues by the end of 2015.
 category: user
 tags: [user]
-logo: /assets/img/mancherster-logo.png
+logo: assets/img/mancherster-logo.png
 ---
 
 ## Project Goals

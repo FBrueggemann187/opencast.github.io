@@ -4,7 +4,7 @@ date: 2015-05-01
 description: Ghent University is a top 100 university and one of the major universities in Belgium counting over 41,000 students and 9,000 employees. Our 11 faculties offer a wide range of courses and conduct in-depth research in both exact and social sciences.
 category: user
 tags: [user]
-logo: /assets/img/logo-ugent.png
+logo: assets/img/logo-ugent.png
 ---
 
 ## Project Goals

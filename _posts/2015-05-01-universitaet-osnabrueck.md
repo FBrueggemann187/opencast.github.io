@@ -4,7 +4,7 @@ date: 2015-05-01
 description: Osnabrück was the first university to run an Opencast installation in production. They are leading the Opencast Player development. Opencast is extensively integrated into their LMS Stud.IP.
 category: user
 tags: [user]
-logo: /assets/img/uos-logo.png
+logo: assets/img/uos-logo.png
 ---
 
 *Last update: August, 1st 2015*
