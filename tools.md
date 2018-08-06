@@ -38,7 +38,7 @@ title="Galicaster"
 description="Galicaster, from Teltek, is currently the most popular capture software that works together with Opencast. Additional to recording devices with the Galicaster software that can be purchased from Teltek, this software under a non-commercial open-source licence that allows universities to use the software for free on their computers.
 
 [Galicaster Homepage](https://wiki.teltek.es/display/Galicaster/Galicaster+project+Home)"
-image="assets/img/galicaster-ui.png"
+image="assets/img/galicaster-ui.jpg"
 linkurl="https://wiki.teltek.es/display/Galicaster/Galicaster+project+Home"
 align="left"
 imagewidth="50%"
