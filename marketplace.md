@@ -8,8 +8,8 @@ description: There are several partners that offer free and professional tools a
 <!-- Lizenzen unsplash.com: https://unsplash.com/license -->
 
 {% include fullsizebox.html
-title="Free and Open-Source Tools"
-description="There are several software tools that can be used together with Opencast, from PyCA - a small recording tool that can even run on a Raspberry Pi - up to a professional video annotation tool that allows scientific coding of videos. [Learn more...](tools)"
+title="Tools"
+description="There are several software tools that can be used together with Opencast, from PyCA - a small recording tool that can even run on a Raspberry Pi - up to a video annotation tool that allows scientific coding of videos. [Learn more…](tools)"
 image="assets/img/marketplace-tools.jpg"
 linkurl="tools"
 align="right"
